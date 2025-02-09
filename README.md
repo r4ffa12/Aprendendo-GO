@@ -1,3 +1,3 @@
 # Aprendendo-GO
 
-## Repositorio para praticas de go Diaria
+## Repositorio para praticas de go 
