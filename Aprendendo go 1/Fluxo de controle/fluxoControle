@@ -1,0 +1,59 @@
+// For
+// Inicialização, condição, pós
+// Ponto e vírgula?
+// gobyexample.com
+// Não existe while!
+
+// package main
+
+// import (
+//	"fmt"
+//)
+
+// func main() {
+//	for x := 0; x < 10; x++ {
+//		fmt.Println(x)
+//	}
+
+// } run
+// 0
+// 1
+// 2
+// 3
+// 4
+// 5
+// 6
+// 7
+// 8
+// 9
+
+// package main
+
+// import (
+// 	"fmt")
+
+// func main() {
+//	for horas := 0; horas <= 12; horas++ {
+//		fmt.Println("Horas: ", horas)
+
+//		for x := 0; x < 60; x++ {
+//			fmt.Println(" ", x)
+//		}
+//		fmt.Println("\n")
+//	}
+// }
+
+package main
+
+import "fmt"
+
+func main() {
+	x := 0
+	for { // Loop infinito
+		if x >= 5 {
+			break // Sai do loop quando a condição for atendida
+		}
+		fmt.Println(x)
+		x++
+	}
+}
