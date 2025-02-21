@@ -20,5 +20,5 @@ const (
 func main() {
 	fmt.Println(a, c, x, z)
 	// print = 0 2 3 5
-	// print2 = 10 20 30 50
+	// print2 = 0 20 30 50
 }
