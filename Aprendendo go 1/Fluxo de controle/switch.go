@@ -49,6 +49,20 @@ func main() {
 hoje quem ta no escritorio é o zezinho
 sempre que o zezinho vem, o marquinho vem tambem */
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 package main
 
 import (
@@ -76,3 +90,5 @@ func main() {
 	}
 
 }
+hoje é feriado 
+

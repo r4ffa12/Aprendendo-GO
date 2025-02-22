@@ -18,12 +18,4 @@ func main() {
 		}
 	}
 */
-package main
 
-import "fmt"
-
-func main() {
-	for i := 0; i < 5; i++ {
-		fmt.Println("Valor de i:", i)
-	}
-}
